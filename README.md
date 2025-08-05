@@ -61,3 +61,28 @@ http://localhost:3000
 - 💡 [Предложить улучшение](https://github.com/your-username/free-frontend-learning/discussions/new?category=ideas)
 - 📝 [Добавить новый урок](https://github.com/your-username/free-frontend-learning/discussions/new?category=content)
 - 💻 [Взять задачу в разработку](https://github.com/your-username/free-frontend-learning/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+
+
+## 🏆 Система признания
+
+Все контрибьюторы получают:
+
+- 👤 Упоминание в [CONTRIBUTORS.md](CONTRIBUTORS.md)
+- 🏅 Специальные бейджи в профиле GitHub
+- 📜 Сертификат участника проекта
+- 💬 Доступ в закрытый Discord-чат
+
+## 📜 Лицензия
+
+Этот проект распространяется под лицензией MIT - смотрите [LICENSE](LICENSE) файл.
+
+---
+
+<div align="center">
+  <h3>Присоединяйтесь к нашему сообществу!</h3>
+  <a href="https://discord.gg/ваша-ссылка">
+    <img src="https://img.shields.io/badge/Discord-присоединиться-7289DA?logo=discord" alt="Discord" height="30">
+  </a>
+</div>
+
+```
